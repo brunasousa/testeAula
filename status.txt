@@ -1,0 +1,3 @@
+Ciclo de vida de um arquivo no git:
+
+não monitorado -> monitorado -> modificado -> selecionado
