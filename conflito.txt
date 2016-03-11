@@ -1,1 +1,2 @@
 novo arquivo editado no master, de novo
+conflito resolvido
