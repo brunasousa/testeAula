@@ -1,0 +1,3 @@
+O git é bastante diferente do cvs e svn, pois o modelo de versionamento é descentralizado assemelha-se mais à um sistema de arquivos e o envio de arquivos é em duas fases:
+Commit, fase em que as alterações são armazenadas apenas localmente;
+Push, fase em que as alterações são enviadas para um servidor que concentra todos os conjuntos de alterações  que podem ser recombinados entre si livremente.
